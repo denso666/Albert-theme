@@ -4,4 +4,4 @@ enjoy :)
 
 ## Install
 
-* Copy denseTheme.qss to /usr/share/albert/themes
+* Copy the files to /usr/share/albert/themes
